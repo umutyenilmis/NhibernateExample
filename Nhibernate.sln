@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhibernate.UI", "Nhibernate.UI\Nhibernate.UI.csproj", "{F02A20AB-24A7-40F7-9047-18DDF5E6D924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhibernate.Core", "Nhibernate.Core\Nhibernate.Core.csproj", "{F8A8662D-AD8F-4995-9E36-0AC6F426A007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02A20AB-24A7-40F7-9047-18DDF5E6D924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02A20AB-24A7-40F7-9047-18DDF5E6D924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02A20AB-24A7-40F7-9047-18DDF5E6D924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02A20AB-24A7-40F7-9047-18DDF5E6D924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A8662D-AD8F-4995-9E36-0AC6F426A007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A8662D-AD8F-4995-9E36-0AC6F426A007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A8662D-AD8F-4995-9E36-0AC6F426A007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A8662D-AD8F-4995-9E36-0AC6F426A007}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
